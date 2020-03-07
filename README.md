@@ -16,6 +16,8 @@ This is a simple web porject, deployment can be done on any web server or ecen l
  
 ## How To Contribute
 
+Please fork this repository and then issue pull requests for review.
+
 ##Copyright
 
 2020 Git.Training
